@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hi,How can I help you?"
+    },
+    {
+      "question": "hello",
+      "answer": "hi,How can I help you?"
+    },
+    {
+      "question": "how are u?",
+      "answer": "I am Great and how r u doing?"
+    },
+    {
+      "question": "can you tell me a joke?",
+      "answer": "your life....:) hahaha"
+    },
+    {
+      "question": "can you tell me a different joke? ",
+      "answer": "You're so annoying, you can make a happy meal cry"
+    },
+    {
+      "question": "Tell me another joke",
+      "answer": "i am not a nerd; I'm just smarter than you."
+    },
+    {
+      "question": "what is ur name",
+      "answer": "Liela"
+    },
+    {
+      "question": "can, you tell me a fun fact?",
+      "answer": "Australia is wider than the moon."
+    },
+    {
+      "question": "good",
+      "answer": " that is good to know"
+    }
+  ]
+}
